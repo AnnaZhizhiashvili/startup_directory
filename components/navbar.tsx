@@ -49,7 +49,6 @@ const Navbar = async () => {
 
                 </div>
             </nav>
-            Navbar
         </header>
     )
 }
